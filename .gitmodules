@@ -1,4 +1,4 @@
 [submodule "myModule"]
 	path = myModule
 	url = https://github.com/heathstark/heathstark.git
-	branch = mybranch
+	branch = branch2
