@@ -1,2 +1,2 @@
 # publicScratch
-parent repo
+branch2 publicScrach repo
